@@ -998,7 +998,7 @@ input {
     text-indent: 15px;
   }
   .text1_banner {
-    font-size: 6vw;
+    font-size: 5vw;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     color: rgb(183, 3, 4);
@@ -1020,7 +1020,7 @@ input {
     margin-right: auto;
   }
   .text2_banner {
-    font-size: 9vw;
+    font-size: 8vw;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     text-align: center;
@@ -1370,7 +1370,7 @@ input {
     text-indent: 15px;
   }
   .text1_banner {
-    font-size: 6vw;
+    font-size: 5vw;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     color: rgb(183, 3, 4);
@@ -1392,7 +1392,7 @@ input {
     margin-right: auto;
   }
   .text2_banner {
-    font-size: 9vw;
+    font-size: 8vw;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     text-align: center;
